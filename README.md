@@ -51,6 +51,26 @@ A comprehensive collection of modern Android development topics essential for jo
 - **State Management in Compose** - Comprehensive state handling
 - **Adaptive Layouts** - Responsive UI design
 
+### 🧪 **Testing**
+- **Android JUnit Runner** - Android-specific testing framework
+- **Integration Testing** - End-to-end testing strategies
+- **Robolectric** - Unit testing with Android framework
+- **Test Doubles** - Mocking and stubbing techniques
+- **Test Driven Development** - TDD methodology and practices
+- **Testing Pyramids** - Testing strategy and coverage
+- **UI Testing** - Automated UI testing approaches
+- **Unit Testing** - Component-level testing fundamentals
+
+### 💉 **Dependency Injection**
+- **Dependency Injection** - Core concepts and principles
+- **Hilt Core** - Hilt framework fundamentals
+- **Hilt Qualifiers** - Dependency qualification and scoping
+- **Assisted Injection** - Factory pattern with Hilt
+- **Entry Points** - Hilt entry point interfaces
+- **Providing Dependencies with Hilt** - Module and provider setup
+- **Testing with Hilt** - Testing strategies for DI
+- **ViewModel Inject with Hilt** - ViewModel dependency injection
+
 ---
 
 ## 🎯 **Interview Focus Areas**
@@ -61,6 +81,8 @@ This repository covers the most commonly asked topics in modern Android developm
 - **Modern Android Development** - Jetpack Compose, Coroutines, Flow
 - **Data Management** - Room, Retrofit, Repository pattern
 - **Performance & Best Practices** - Paging, State management, Testing
+- **Testing & Quality Assurance** - Unit, Integration, UI testing strategies
+- **Dependency Management** - Hilt, DI principles, testing with DI
 - **Real-world Implementation** - Practical examples and use cases
 
 ## 📖 **How to Use**
@@ -77,6 +99,8 @@ Each markdown file contains:
 1. Start with **Architecture & Domain Layer** for foundational concepts
 2. Move to **Concurrency & Flow** for modern async programming
 3. Explore **Data Layer** for persistence and networking
-4. Finish with **UI Layer** for modern UI development
+4. Continue with **UI Layer** for modern UI development
+5. Learn **Testing** strategies for quality assurance
+6. Master **Dependency Injection** with Hilt for clean architecture
 
 Perfect for Android developers preparing for technical interviews or learning modern Android development practices!
