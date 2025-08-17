@@ -71,6 +71,29 @@ A comprehensive collection of modern Android development topics essential for jo
 - **Testing with Hilt** - Testing strategies for DI
 - **ViewModel Inject with Hilt** - ViewModel dependency injection
 
+### 🚀 **Build & Tools**
+- **Android Studio Profilers** - Performance analysis tools
+- **CI/CD** - Continuous integration and deployment
+- **Gradle** - Build system and dependency management
+- **R8 & ProGuard** - Code optimization and obfuscation
+- **Static Analysis Tools** - Code quality and security analysis
+
+### 📱 **Kotlin & Android Core**
+- **Activity & Fragment Lifecycles** - Component lifecycle management
+- **Android Manifest** - App configuration and permissions
+- **App Bundles & APKs** - App distribution and packaging
+- **Background Work Restrictions** - Background processing limitations
+- **Content Provider** - Data sharing between apps
+- **Handling Permissions** - Runtime permission management
+- **Jetpack Libraries** - Essential Android libraries
+- **Kotlin Features** - Advanced Kotlin language features
+- **Memory Leaks** - Memory management and debugging
+- **WorkManager** - Background task scheduling
+
+### 🔧 **Others**
+- **Debugging Performance Issues** - Performance optimization techniques
+- **Design Offline System** - Offline-first architecture patterns
+
 ---
 
 ## 🎯 **Interview Focus Areas**
@@ -83,7 +106,25 @@ This repository covers the most commonly asked topics in modern Android developm
 - **Performance & Best Practices** - Paging, State management, Testing
 - **Testing & Quality Assurance** - Unit, Integration, UI testing strategies
 - **Dependency Management** - Hilt, DI principles, testing with DI
+- **Build & Development Tools** - Gradle, CI/CD, Profiling
+- **Core Android Concepts** - Lifecycles, Permissions, Content Providers
+- **Performance & Debugging** - Memory management, Performance optimization
 - **Real-world Implementation** - Practical examples and use cases
+
+## 📊 **Repository Statistics**
+
+**Total Categories**: 9  
+**Total Topics**: 67
+
+- **Architecture & Domain Layer**: 7 topics
+- **Concurrency, Coroutines & Flow**: 10 topics
+- **Data Layer**: 8 topics
+- **UI Layer**: 14 topics
+- **Testing**: 8 topics
+- **Dependency Injection**: 8 topics
+- **Build & Tools**: 5 topics
+- **Kotlin & Android Core**: 10 topics
+- **Others**: 2 topics
 
 ## 📖 **How to Use**
 
@@ -102,5 +143,8 @@ Each markdown file contains:
 4. Continue with **UI Layer** for modern UI development
 5. Learn **Testing** strategies for quality assurance
 6. Master **Dependency Injection** with Hilt for clean architecture
+7. Understand **Build & Tools** for development workflow
+8. Study **Kotlin & Android Core** for fundamental concepts
+9. Explore **Others** for specialized topics
 
 Perfect for Android developers preparing for technical interviews or learning modern Android development practices!
