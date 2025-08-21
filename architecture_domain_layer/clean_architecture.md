@@ -29,7 +29,7 @@ Clean Architecture organizes code into three main concentric layers:
   - **Use Cases**: Encapsulate specific business operations (e.g., `GetUserProfileUseCase`).
 - **Example**: A Use Case defining how to fetch a user’s profile data.
 
-### 3. Data Layer (Outer Layer)
+### 3. Data Layer (Inner Layer)
 - **Purpose**: Handles data sources (APIs, databases, local storage).
 - **Components**:
   - **Repositories**: Bridge between Domain layer and data sources, implementing Domain interfaces.
